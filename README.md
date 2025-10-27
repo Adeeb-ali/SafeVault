@@ -58,9 +58,12 @@ If you're passionate about **encryption**, **frontend design**, or **privacy too
 
 ---
 
-## 🌍 Vision
-
+## ✨ Motivation & Development Plan
 To create a world-class, open-source platform that empowers everyone to store personal media securely — with **zero dependency** on cloud storage or third-party access.
+I’m deeply motivated to build this project because I believe privacy should be simple, accessible, and under everyone’s control.  
+I’ll officially begin working on **SafeVault** during my **winter vacation**, but this project will **always remain open source**.  
+Anyone interested is welcome to contribute at any time — every contribution, big or small, adds meaningful value to the open-source community and helps make SafeVault stronger for everyone. 💫
+
 
 ---
 
